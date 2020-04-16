@@ -3,7 +3,7 @@
 ## Systemic Risk of Pandemic via Novel Pathogens – Coronavirus: A Note
 
 <time datetime=2020-01-26>26 / 1 / 2020</time>
-_New England Complex Systems Institute_
+<em class='source'>NECSI</em>
 
 The novel coronavirus emerging out of Wuhan, China has been identified as a
 deadly strain that is also highly contagious. The response by China to date has

@@ -4,7 +4,7 @@
 ## Coronavirus: NHS contact tracing app to target 80% of smartphone users
 
 <time datetime=2020-04-16>16 / 4 / 2020</time>
-_BBC News_
+<em class='source'>BBC News</em>
 
 The team estimates that 56% of the general population must use the app to halt
 the outbreak. Prof Fraser said that equated to 80% of all existing smartphone

@@ -4,7 +4,7 @@
 ## Sanders says opposing Biden is ‘irresponsible’
 
 <time datetime=2020-04-15>15 / 4 / 2020</time>
-_Associated Press_
+<em class='source'>Associated Press</em>
 
 He seemed to distance himself from his campaign’s former national press
 secretary, Briahna Joy Gray, when asked about her recent statement on social

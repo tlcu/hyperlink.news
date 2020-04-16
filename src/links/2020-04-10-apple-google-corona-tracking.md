@@ -4,7 +4,7 @@
 ## Apple and Google are building coronavirus tracking into iOS and Android
 
 <time datetime=2020-04-10>10 / 4 / 2020</time>
-_MIT Technology Review_
+<em class='source'>MIT Technology Review</em>
 
 At first, the software will simply consist of an API (application programming
 interface) that lets Apple and Android phones, which use distinct operating

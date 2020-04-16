@@ -4,7 +4,7 @@
 ## Thirst for Oil Vanishes, <br> Leaving Industry in Chaos
 
 <time datetime=2020-04-14>14 / 4 / 2020</time>
-_The Wall Street Journal_
+<em class='source'>The Wall Street Journal</em>
 
 Global demand for crude is normally around 100 million barrels a day. Estimates
 of the decline vary widely and change daily, but most put current demand at 65

@@ -4,7 +4,7 @@
 ## Don’t count me out: On the relevance of IP addresses in the tracking ecosystem
 
 <time datetime=2020-01-28>28 / 1 / 2020</time>
-_The Web Conference, 2020_
+<em class='source'>The Web Conference, 2020</em>
 
 Targeted online advertising has become an inextricable part of the way Web
 content and applications are monetized. At the beginning, online advertising

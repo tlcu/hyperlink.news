@@ -4,7 +4,7 @@
 ## IMF predicts global contraction on par with Great Depression
 
 <time datetime=2020-04-14>14 / 4 / 2020</time>
-_Politico_
+<em class='source'>Politico</em>
 
 The global economy is expected to contract by 3 percent in 2020 as a result of
 the coronavirus pandemic, the International Monetary Fund predicted in its

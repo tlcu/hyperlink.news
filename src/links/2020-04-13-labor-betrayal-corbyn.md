@@ -4,7 +4,7 @@
 ## Anti-Corbyn Labour officials worked to lose general election to oust leader, leaked dossier finds
 
 <time datetime=2020-04-13>13 / 4 / 2020</time>
-_The Independent_
+<em class='source'>The Independent</em>
 
 Labour party officials opposed to Jeremy Corbyn worked to lose the 2017 general
 election in the hope that a bad result would trigger a leadership contest to
