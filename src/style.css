@@ -12,7 +12,7 @@ body {
     'Segoe UI',
     arial,
     sans-serif;
-  font-size: 1.25em;
+  font-size: 1.2em;
   margin: 1ex auto;
   max-width: 98%;
 }
@@ -76,7 +76,7 @@ main {
   border-radius: 10px;
   border: 1px solid gainsboro;
   display: block;
-  margin: 0 1em 3ex 0; 
+  margin: 0 0.5em 2ex 0.5em; 
   padding: 0 1em 2ex 1em;
   max-width: 24em;
 }
