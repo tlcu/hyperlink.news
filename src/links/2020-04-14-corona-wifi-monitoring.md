@@ -1,9 +1,10 @@
-<a class='link' href=''>
+<a class='link' href='https://archive.vn/qTFNk'>
 <article>
 
 ## CSAIL device lets doctors monitor COVID-19 patients from a distance
 
 <time datetime=2020-04-14>14 / 4 / 2020</time>
+_MIT CSAIL_
 
 This week a clinical team in Boston has reported being able to monitor a
 COVID-19 patient remotely, thanks to a device developed at MIT’s Computer
