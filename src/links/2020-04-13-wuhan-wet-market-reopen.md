@@ -3,7 +3,7 @@
 
 ## Wuhan 'wet markets' reopen
 
-<time datetime=2020-04-14>13 / 4 / 2020</time>
+<time datetime=2020-04-13>13 / 4 / 2020</time>
 <em class='source'>Global Times</em>
 
 Baishazhou market, the biggest wholesale wet market in Wuhan, is buzzing again
