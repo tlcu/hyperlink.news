@@ -3,7 +3,7 @@
 
 ## Boston Dynamics: Using Mobile Robots To Protect Healthcare Workers
 
-<time datetime=2020-04-15>23 / 4 / 2020</time>
+<time datetime=2020-04-23>23 / 4 / 2020</time>
 <em class='source'>Boston Dynamics</em>
 
 Starting in early March, Boston Dynamics started receiving inquiries from
