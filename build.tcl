@@ -9,4 +9,5 @@ file copy -force {*}$assets docs
 exec pandoc --standalone                 \
             --css style.css              \
             --template src/template.html \
-            --output docs/index.html << $markup
+            --output docs/index.html     \
+            << $markup
